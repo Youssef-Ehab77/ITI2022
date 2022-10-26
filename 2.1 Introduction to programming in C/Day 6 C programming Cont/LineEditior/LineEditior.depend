@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666613589 source:c:\users\youssef\desktop\iti work\3. introduction to programming in c\day 10 c programming cont\lineeditior\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+

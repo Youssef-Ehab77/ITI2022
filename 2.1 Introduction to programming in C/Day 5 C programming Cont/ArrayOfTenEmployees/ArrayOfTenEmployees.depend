@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666281114 source:c:\users\youssef\desktop\iti work\3. introduction to programming in c\day 8 c programming cont\arrayoftenemployees\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+

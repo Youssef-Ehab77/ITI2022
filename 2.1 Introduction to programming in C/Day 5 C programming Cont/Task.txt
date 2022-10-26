@@ -1,0 +1,4 @@
+1. Enter the data of an employee on display screen and then print the net-salary
+2. Enter the data of 3 employees then display the data
+3. Menu ( add new employee by index, display by id, display  all, delete by id, delete by name, exit).
+		Bonus: don't overwrite existed data when making new employee by index)

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666552547 source:c:\users\youssef\desktop\iti work\3. introduction to programming in c\day 10 c programming cont\swapbyrefrenceandvalue\main.c
+	<stdio.h>
+	<stdlib.h>
+
