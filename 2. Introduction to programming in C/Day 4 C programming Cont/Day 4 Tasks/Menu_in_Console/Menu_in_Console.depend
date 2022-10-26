@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666180024 source:c:\users\youssef\desktop\iti work\day 7 c programming cont\day 7 tasks\menu_in_console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+

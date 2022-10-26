@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665662451 source:d:\codeblocks\lab 1 c\decimal-to-hex-and-char\main.c
+	<stdio.h>
+	<stdlib.h>
+

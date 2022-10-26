@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666179254 source:c:\users\youssef\desktop\iti work\day 7 c programming cont\day 7 tasks\name_concat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

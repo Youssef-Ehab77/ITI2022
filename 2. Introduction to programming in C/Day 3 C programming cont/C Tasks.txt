@@ -1,0 +1,13 @@
+Assignments:
+      1) Input and output an array using 2 for loops.
+      2) Get Minimum and Maximum value of an array.
+      3) Calculate sum of each row in a 2D Array.
+      4) Bonus: Calculate average of each column in a 2D Array.
+      5) multiply two matrix 3x2 , 2x1 --> 3x1
+      6) number of rows and cols from users Must(NxM , MxK)--> NxK
+
+
+[1 4] [1 2 3]
+      [4 5 6] ---->> [15]
+		     [22]
+		     [27]

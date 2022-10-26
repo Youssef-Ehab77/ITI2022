@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666026451 source:c:\users\youssef\desktop\iti work\day 5 c programing cont\magicbox3x3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

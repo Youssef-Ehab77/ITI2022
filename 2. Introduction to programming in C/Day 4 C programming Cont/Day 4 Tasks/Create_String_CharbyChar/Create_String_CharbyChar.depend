@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666180308 source:c:\users\youssef\desktop\iti work\day 7 c programming cont\day 7 tasks\create_string_charbychar\main.c
+	<stdio.h>
+	<stdlib.h>
+
