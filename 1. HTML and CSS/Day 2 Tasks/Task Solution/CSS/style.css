@@ -1,0 +1,33 @@
+table{
+    border: 7px royalblue solid;
+    margin: auto;
+    background-color: cadetblue;
+    padding: 3px 3px;
+}
+
+th{
+    font-size: 30px;
+}
+
+td{
+    border: 3px royalblue solid;
+    padding: 4px;
+}
+
+.center{
+    text-align: center;
+}
+
+
+fieldset{
+    width: 50%;
+    margin: auto;
+    background-color: royalblue;
+}
+
+div{
+    padding: 5px;
+    margin: 5px;
+}
+
+

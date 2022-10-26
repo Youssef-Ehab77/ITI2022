@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link href="../CSS/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <form action="page3.html">
+        <fieldset>
+            <legend>Log In</legend>
+            <div>
+                <label for="uname">UserName: </label>
+                <input type="text" placeholder="Enter username!" id="uname" name="uname">
+            </div>
+            <div>
+                <label for="password">Password: </label>
+                <input type="password" placeholder="Enter password!" id="password" name="password">
+            </div>
+            <div>
+                <label for="location">Select Your Location: </label>
+                <select id="location" name="location">
+                    <optgroup label="Egypt">
+                        <option>Egypt</option>
+                        <option>Masr</option>
+                        <option>Om L donia</option>
+                    </optgroup>
+
+                    <optgroup label="Asia">
+                        <option>China</option>
+                        <option>India</option>
+                    </optgroup>
+
+                    <optgroup disabled label="USA">
+                        <option>Alabama</option>
+                        <option>Textas</option>
+                    </optgroup>
+
+                </select>
+            </div>
+            <div>
+                <input type="checkbox" accesskey="m" name="remember" id="rememberme" value="rememberme>">
+                <label for="rememberme">Remember <u>M</u>e</label>
+            </div>
+            <input type="submit" value="LogIn">
+
+        </fieldset>
+    </form>
+</body>
+
+</html>
